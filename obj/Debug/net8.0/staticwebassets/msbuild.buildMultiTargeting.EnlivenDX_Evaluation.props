@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EnlivenDX_Evaluation.props" />
+</Project>
